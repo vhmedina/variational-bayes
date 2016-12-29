@@ -128,7 +128,7 @@ for(ite in 1:n_plot){
   }  
   print(p)
 }},
-interval = 0.08, movie.name = "ggplot2-variational_bayes.gif", ani.width = 600, ani.height = 600)
+interval = 0.08, movie.name = "variational_bayes.gif", ani.width = 600, ani.height = 600)
 
 
 
